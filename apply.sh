@@ -2,11 +2,11 @@
 
 . ./VARIABLES.sh
 
-TARGET_PRODUCT="redfin"
-TARGET_DEVICE="redfin"
-PRODUCT_BRAND="google"
-PRODUCT_MODEL="Pixel 5"
-PRODUCT_MANUFACTURER="Google"
+TARGET_PRODUCT="goldfish"
+TARGET_DEVICE="goldfish"
+PRODUCT_BRAND="WhiteStar"
+PRODUCT_MODEL="LeoPhone"
+PRODUCT_MANUFACTURER="WhiteStar"
 
 # Remove a property from a file, 
 # then append the property with provided value
